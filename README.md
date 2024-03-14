@@ -7,7 +7,10 @@
 ## technology:[streamlit]
 
 ## application description:
-ทำเกี่ยวกับการค้นหาอุปกรณ์ictต่างๆ
+การค้นหา Anime
+
+##นำเสนอด้วย:[CANVA]
+https://www.canva.com/design/DAF_gORSow4/hvryxXdu_u5-SdQw_rGFVQ/edit?utm_content=DAF_gORSow4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## preesentation:-
 
